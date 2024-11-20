@@ -1,4 +1,4 @@
-# Dashboard_DE_GESTION_DE_VENTAS
+# SALES MANAGEMENT PANEL
 
 # 📊 Resumen del Análisis del Dashboard de Gestión de Ventas  
 
