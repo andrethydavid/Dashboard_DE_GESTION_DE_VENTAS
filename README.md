@@ -43,4 +43,5 @@ El dashboard ofrece una visión clara del desempeño de ventas, destacando:
 ## 📋 Conclusión  
 El dashboard ofrece insights útiles, pero requiere un análisis más profundo para guiar decisiones estratégicas y mejorar el rendimiento.  
 
-📌 **¿Te gustaría profundizar en algún aspecto?** 🤔  
+ 
+
